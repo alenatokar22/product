@@ -19,9 +19,11 @@
     "gulp-sass": "^5.1.0",
     "gulp-uglify": "^3.0.2",
     "jquery": "^3.6.0",
-    "sass": "^1.52.1"
+    "rateyo": "^2.3.2",
+    "sass": "^1.53.0"
   },
   "dependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
     "compressed": "^1.0.0"
   }
 }
